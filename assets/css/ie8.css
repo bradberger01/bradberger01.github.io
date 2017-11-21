@@ -121,6 +121,7 @@
 
 	.goto-next {
 		display: none;
+        color:black;
 	}
 
 /* Spotlight */

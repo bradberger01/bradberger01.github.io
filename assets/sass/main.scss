@@ -953,6 +953,17 @@
 		white-space: nowrap;
 		width: 10em;
 		z-index: 1;
+        
+       
+        }
+    .goto-next:hover{
+        background-color:pink !important;
+    }
+    
+   
+    /*#three.goto-next{
+        color:black;
+    }*/     
 
 		&:before {
 			background-image: url('images/arrow.svg');
@@ -969,7 +980,7 @@
 			width: 2em;
 			z-index: 1;
 		}
-	}
+	
 
 /* Spotlight */
 
